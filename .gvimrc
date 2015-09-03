@@ -1,0 +1,1 @@
+set guifont=Literation_Mono_Powerline:h16
